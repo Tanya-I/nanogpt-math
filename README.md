@@ -50,7 +50,7 @@ using two different fine-tuning approaches:
 | `dpo/pos_neg_pairs.json` | Positive/negative response pairs used for DPO training |
 | `TCMC_GROUP6_LAB.ipynb` | Group lab notebook |
 
-## Team Members
+## Contributors
 
 - Grover Ekhnoor Kaur
 - Irani Tanya
